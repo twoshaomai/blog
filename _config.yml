@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: 两只烧麦
 description: This is ZhangKun's public blog
 github_username: twoshaomai
 
@@ -15,7 +15,7 @@ email: starnight_zhang@126.com
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
